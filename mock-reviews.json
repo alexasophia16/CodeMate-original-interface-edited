@@ -1,0 +1,29 @@
+[
+  {
+    "id": "r1",
+    "bookingId": 2,
+    "tutorId": 3,
+    "reviewer": "Alexa Canaria",
+    "rating": 5,
+    "comment": "Explained normalization clearly and used helpful examples.",
+    "date": "2026-10-10"
+  },
+  {
+    "id": "r2",
+    "bookingId": 6,
+    "tutorId": 1,
+    "reviewer": "Patricia Lim",
+    "rating": 5,
+    "comment": "Patient and easy to follow.",
+    "date": "2026-10-08"
+  },
+  {
+    "id": "r3",
+    "bookingId": 7,
+    "tutorId": 1,
+    "reviewer": "Miguel Santos",
+    "rating": 4,
+    "comment": "Good pacing and useful practice problems.",
+    "date": "2026-10-02"
+  }
+]

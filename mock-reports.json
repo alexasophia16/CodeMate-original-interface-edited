@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rep1",
+    "reporter": "Alexa Canaria",
+    "target": "Tutor account",
+    "reason": "No-show for scheduled consultation",
+    "status": "pending"
+  },
+  {
+    "id": "rep2",
+    "reporter": "Juan Miguel Rivera",
+    "target": "Discussion post",
+    "reason": "Possible answer-key / academic integrity issue",
+    "status": "pending"
+  }
+]
